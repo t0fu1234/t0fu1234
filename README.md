@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ho, Im dayuth
 
 <!--
 **t0fu1234/t0fu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
